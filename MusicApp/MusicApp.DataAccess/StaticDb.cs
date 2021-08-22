@@ -6,9 +6,9 @@ using System.Text;
 
 namespace MusicApp.DataAccess
 {
-    public class StaticDb
+    public static class StaticDb
     {
-        public List<Song> Songs = new List<Song>()
+        public static List<Song> Songs = new List<Song>()
         {
             new Song
             {
@@ -19,8 +19,7 @@ namespace MusicApp.DataAccess
                 Date = new DateTime(11/30/2018)
             }
         };
-
-        public List<User> Users = new List<User>()
+        public static List<User> Users = new List<User>()
         {
             new User
             {
@@ -31,8 +30,19 @@ namespace MusicApp.DataAccess
                 Mail = "janeva.aerodrom@gmail.com",
                 Address = "Damaska 11A",
                 Phone = 071858000,
-                Account = UserAccount.Premium
+                Account = UserAccount.Premium,
+                
+            }
+        };
 
+        public static List<Account> Price = new List<Account>()
+        {
+            new Account
+            {
+                Standard = "free",
+                Student = "5$",
+                Premium = "10$",
+                Family = "18$"
             }
         };
     }

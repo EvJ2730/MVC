@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MusicApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MusicApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MusicApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MusicApp.Domain/MusicApp.Domain.csproj",
+      "msbuildProject": "../MusicApp.Domain/MusicApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MusicApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj",
       "projectName": "MusicApp.Services",
-      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MusicApp\\MusicApp.Services\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -7,8 +7,8 @@ namespace MusicApp.Domain.Enums
     public enum UserAccount
     {
         Standard,
+        Student,
         Premium,
-        Medium,
         Family
     }
 }

@@ -15,7 +15,7 @@ namespace MusicApp.Domain.Models
         public string Mail { get; set; }
         public long Phone { get; set; }
         public UserAccount Account { get; set; }
-        public Account Price { get; set}
+        public Account Price { get; set; }
 
     }
 }

@@ -5,11 +5,12 @@ using System.Text;
 
 namespace MusicApp.Domain.Models
 {
-    public class Account
+    public class Account  
     {
-        public UserAccount Standard { get; set; }
-        public UserAccount Premium { get; set; }
-        public UserAccount Medium { get; set; }
-        public UserAccount Family { get; set; }
+        public string Standard { get; set; }
+        public string Student { get; set; } 
+        public string Premium { get; set; }
+        public string Family { get; set; }
+
     }
 }
