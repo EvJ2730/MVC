@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Playlist\" />
+    <Folder Include="Views\Song\" />
+    <Folder Include="Views\User\" />
+  </ItemGroup>
+
 </Project>
