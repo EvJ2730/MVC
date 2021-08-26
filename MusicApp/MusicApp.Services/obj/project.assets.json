@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MusicApp.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MusicApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MusicApp.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicApp.DataAccess.dll": {}
+        }
+      },
       "MusicApp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "MusicApp.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../MusicApp.DataAccess/MusicApp.DataAccess.csproj",
+      "msbuildProject": "../MusicApp.DataAccess/MusicApp.DataAccess.csproj"
+    },
     "MusicApp.Domain/1.0.0": {
       "type": "project",
       "path": "../MusicApp.Domain/MusicApp.Domain.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MusicApp.DataAccess >= 1.0.0",
       "MusicApp.Domain >= 1.0.0"
     ]
   },
@@ -53,6 +72,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.DataAccess\\MusicApp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.DataAccess\\MusicApp.DataAccess.csproj"
+            },
             "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj": {
               "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj"
             }
@@ -83,7 +105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

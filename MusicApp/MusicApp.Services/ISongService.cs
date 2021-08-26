@@ -5,10 +5,10 @@ using System.Text;
 
 namespace MusicApp.Services
 {
-    public interface IMusicService
+    public interface ISongService
     {
         public int AddSong (Song entity);
-        public string GetLastName ();
+        public string GetLastSong ();
         public List<Song> GetAllSongs ();
         public Song  GetSongById(int id);
         public void UpdateSong(Song song);

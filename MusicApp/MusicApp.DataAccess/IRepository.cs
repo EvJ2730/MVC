@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MusicApp.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,5 +12,6 @@ namespace MusicApp.DataAccess
         int Insert(T entity);
         void Update(T entity);
         void DeleteById(int id);
+        int Insert(Song entity);
     }
 }
