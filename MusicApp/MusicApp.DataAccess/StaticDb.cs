@@ -1,4 +1,4 @@
-﻿using MusicApp.Domain.Enums;
+﻿
 using MusicApp.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -17,7 +17,7 @@ namespace MusicApp.DataAccess
                 Artist = "Feng Suave",
                 Album = "Venus Flytrap",
                 Duration = 0.00m,
-                Date = new DateTime(11/30/2018)
+                CreatedOn = new DateTime(11/30/2018)
             },
 
             new Song
@@ -27,7 +27,7 @@ namespace MusicApp.DataAccess
                 Artist = "Ed Sheeran",
                 Album = "Bad HAbits: The Remixes",
                 Duration = 0.00m,
-                Date = new DateTime(06/25/2021)
+                CreatedOn = new DateTime(06/25/2021)
             },
 
             new Song
@@ -37,7 +37,7 @@ namespace MusicApp.DataAccess
                 Artist = "Babalos",
                 Album = "Unknown",
                 Duration = 0.00m,
-                Date = new DateTime(02/11/2018)
+                CreatedOn = new DateTime(02/11/2018)
             },
 
             new Song
@@ -47,7 +47,7 @@ namespace MusicApp.DataAccess
                 Artist = "Mandragora",
                 Album = "Vapo Vapo",
                 Duration = 0.00m,
-                Date = new DateTime(06/19/2020)
+                CreatedOn = new DateTime(06/19/2020)
             },
 
             new Song
@@ -57,7 +57,7 @@ namespace MusicApp.DataAccess
                 Artist = "Babalos",
                 Album = "Unknown",
                 Duration = 0.00m,
-                Date = new DateTime(02/11/2018)
+                CreatedOn = new DateTime(02/11/2018)
             },
 
             new Song
@@ -67,7 +67,7 @@ namespace MusicApp.DataAccess
                 Artist = "Mandragora",
                 Album = "Disc 1",
                 Duration = 0.00m,
-                Date = new DateTime(08/03/2018)
+                CreatedOn = new DateTime(08/03/2018)
             },
 
             new Song
@@ -77,7 +77,7 @@ namespace MusicApp.DataAccess
                 Artist = "Mandragora",
                 Album = "Galactic Symphony",
                 Duration = 0.00m,
-                Date = new DateTime(12/03/2018)
+                CreatedOn = new DateTime(12/03/2018)
             },
 
             new Song
@@ -87,7 +87,7 @@ namespace MusicApp.DataAccess
                 Artist = "Go_A",
                 Album = "Shum",
                 Duration = 0.00m,
-                Date = new DateTime(03/09/2021)
+                CreatedOn = new DateTime(03/09/2021)
             },
 
             new Song
@@ -97,7 +97,7 @@ namespace MusicApp.DataAccess
                 Artist = "Nipplepeople",
                 Album = "SINGLES",
                 Duration = 0.00m,
-                Date = new DateTime(07/19/2015)
+                CreatedOn = new DateTime(07/19/2015)
             },
 
             new Song
@@ -107,7 +107,7 @@ namespace MusicApp.DataAccess
                 Artist = "Nema ljubavi u klubu",
                 Album = "Nema Ljubavi U Klubu",
                 Duration = 0.00m,
-                Date = new DateTime(11/20/2018)
+                CreatedOn = new DateTime(11/20/2018)
             }
 
 
@@ -123,8 +123,8 @@ namespace MusicApp.DataAccess
                 Mail = "janeva.aerodrom@gmail.com",
                 Address = "Damaska 11A",
                 Phone = 071858000,
-                Account = UserAccount.Premium,
-                
+                Type = new Account(),
+                Price = new Account(),
             }
         };
 
@@ -154,7 +154,7 @@ namespace MusicApp.DataAccess
                         Artist = "Babalos",
                         Album = "Unknown",
                         Duration = 0.00m,
-                        Date = new DateTime(02/11/2018)
+                        CreatedOn = new DateTime(02/11/2018)
                     },
 
                     new Song
@@ -164,7 +164,7 @@ namespace MusicApp.DataAccess
                         Artist = "Mandragora",
                         Album = "Vapo Vapo",
                         Duration = 0.00m,
-                        Date = new DateTime(06/19/2020)
+                        CreatedOn = new DateTime(06/19/2020)
                     },
 
                     new Song
@@ -173,7 +173,7 @@ namespace MusicApp.DataAccess
                         Name = "Snow Crystal",
                         Artist = "Babalos",
                         Album = "Unknown",
-                        Date = new DateTime(02/11/2018)
+                        CreatedOn = new DateTime(02/11/2018)
                     },
 
                     new Song
@@ -183,7 +183,7 @@ namespace MusicApp.DataAccess
                         Artist = "Mandragora",
                         Album = "Disc 1",
                         Duration = 0.00m,
-                        Date = new DateTime(08/03/2018)
+                        CreatedOn = new DateTime(08/03/2018)
                     },
 
                     new Song
@@ -193,7 +193,7 @@ namespace MusicApp.DataAccess
                         Artist = "Mandragora",
                         Album = "Galactic Symphony",
                         Duration = 0.00m,
-                        Date = new DateTime(12/03/2018)
+                        CreatedOn = new DateTime(12/03/2018)
                     },
 
                     new Song
@@ -203,11 +203,10 @@ namespace MusicApp.DataAccess
                         Artist = "Go_A",
                         Album = "Shum",
                         Duration = 0.00m,
-                        Date = new DateTime(03/09/2021)
+                        CreatedOn = new DateTime(03/09/2021)
                     }
                 },
-          
-                Date = new DateTime()
+                CreatedOn = new DateTime()
             }
         };
     }

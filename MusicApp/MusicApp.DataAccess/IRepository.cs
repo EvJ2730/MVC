@@ -12,6 +12,5 @@ namespace MusicApp.DataAccess
         int Insert(T entity);
         void Update(T entity);
         void DeleteById(int id);
-        int Insert(Song entity);
     }
 }

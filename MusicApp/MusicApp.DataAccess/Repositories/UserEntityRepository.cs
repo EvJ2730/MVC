@@ -44,19 +44,18 @@ namespace MusicApp.DataAccess
                 user.Address = entity.Address;
                 user.Mail = entity.Mail;
                 user.Phone = entity.Phone;
-                user.Account = entity.Account;
+                user.Type = entity.Type;
                 user.Price = entity.Price;
             }
         }
 
         public void DeleteById(int id)
         {
-            User user = StaticDb.Users.FirstOrDefault(x=> x.Id.Equals(id));
-            if(user != null)
+            User user = StaticDb.Users.FirstOrDefault(x => x.Id.Equals(id));
+            if (user != null)
             {
                 StaticDb.Users.Remove(user);
             }
         }
-
     }
 }

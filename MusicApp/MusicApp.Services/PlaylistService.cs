@@ -18,8 +18,8 @@ namespace MusicApp.Services
         {
             return _playlistRepository.Insert(entity);
         }
-
-        public int AddNewSong(Song entity)
+            //problem IPlaylistService
+        public List<Song> AddNewSong(Song entity)
         {
             return _playlistRepository.Insert(entity);
         }
@@ -37,6 +37,21 @@ namespace MusicApp.Services
         public void DeleteSongById(int id)
         {
             _playlistRepository.DeleteById(id);
+        }
+
+        public int MakeNewPlaylist(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Song> AddNewSong(Song song)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void DeletePlaylistById(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

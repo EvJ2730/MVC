@@ -10,4 +10,8 @@
     <Folder Include="Views\User\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MusicApp.Services\MusicApp.Services.csproj" />
+  </ItemGroup>
+
 </Project>

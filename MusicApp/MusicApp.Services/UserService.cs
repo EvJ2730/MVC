@@ -30,6 +30,11 @@ namespace MusicApp.Services
             return _userRepository.GetAll().FirstOrDefault().Username;
         }
 
+        public User GetUserById(int id)
+        {
+            return _userRepository.GetById(id);
+        }
+
         public void UpdateExistingUser(User user)
         {
             //validation

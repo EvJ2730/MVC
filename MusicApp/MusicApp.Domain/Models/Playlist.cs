@@ -9,7 +9,7 @@ namespace MusicApp.Domain.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public List<Song> Song { get; set; }
-        public DateTime Date { get; set; }
+        public DateTime CreatedOn { get; set; }
         
     }
 }

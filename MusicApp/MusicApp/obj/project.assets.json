@@ -1,11 +1,67 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MusicApp.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MusicApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MusicApp.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicApp.DataAccess.dll": {}
+        }
+      },
+      "MusicApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MusicApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicApp.Domain.dll": {}
+        }
+      },
+      "MusicApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MusicApp.DataAccess": "1.0.0",
+          "MusicApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MusicApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicApp.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MusicApp.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../MusicApp.DataAccess/MusicApp.DataAccess.csproj",
+      "msbuildProject": "../MusicApp.DataAccess/MusicApp.DataAccess.csproj"
+    },
+    "MusicApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MusicApp.Domain/MusicApp.Domain.csproj",
+      "msbuildProject": "../MusicApp.Domain/MusicApp.Domain.csproj"
+    },
+    "MusicApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../MusicApp.Services/MusicApp.Services.csproj",
+      "msbuildProject": "../MusicApp.Services/MusicApp.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MusicApp.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {}
@@ -33,7 +89,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
