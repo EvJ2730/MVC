@@ -41,7 +41,7 @@ namespace MusicApp.DataAccess.Repositories
                 song.Name = entity.Name;
                 song.Artist = entity.Artist;
                 song.Album = entity.Album;
-                song.Date = entity.Date;
+                song.CreatedOn = entity.CreatedOn;
             }
         }
         public void DeleteById(int id)

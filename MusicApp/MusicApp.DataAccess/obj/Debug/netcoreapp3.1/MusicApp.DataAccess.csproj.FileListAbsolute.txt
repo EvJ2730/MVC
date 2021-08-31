@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.csproj.CoreCompileInputs.cache

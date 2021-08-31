@@ -53,7 +53,7 @@ namespace MusicApp.DataAccess.Repositories
             {
                 playlist.Name = entity.Name;
                 playlist.Song = entity.Song;
-                playlist.Date = entity.Date;
+                playlist.CreatedOn = entity.CreatedOn;
             }
         }
         public void DeleteById(int id)

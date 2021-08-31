@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\bin\Debug\netcoreapp3.1\MusicApp.Domain.deps.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\bin\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\bin\Debug\netcoreapp3.1\MusicApp.Domain.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.pdb
