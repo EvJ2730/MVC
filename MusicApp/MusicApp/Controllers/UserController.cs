@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MusicApp.Controllers
 {
-    public class UserController : Controller
+    public class UserController : Controller 
     {
         private IUserService _userService;
         public UserController(IUserService userService)
