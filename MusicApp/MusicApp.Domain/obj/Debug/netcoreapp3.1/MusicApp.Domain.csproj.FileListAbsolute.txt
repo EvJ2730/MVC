@@ -8,3 +8,13 @@ C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Deskt
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.dll
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.pdb
+C:\Projects\MVC\MusicApp\MusicApp.Domain\bin\Debug\netcoreapp3.1\MusicApp.Domain.deps.json
+C:\Projects\MVC\MusicApp\MusicApp.Domain\bin\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Projects\MVC\MusicApp\MusicApp.Domain\bin\Debug\netcoreapp3.1\MusicApp.Domain.pdb
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.csproj.AssemblyReference.cache
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.AssemblyInfoInputs.cache
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.AssemblyInfo.cs
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Projects\MVC\MusicApp\MusicApp.Domain\obj\Debug\netcoreapp3.1\MusicApp.Domain.pdb

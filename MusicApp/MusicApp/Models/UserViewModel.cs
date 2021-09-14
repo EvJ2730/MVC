@@ -15,8 +15,8 @@ namespace MusicApp.Models
         public string Username { get; set; }
         public string Address { get; set; }
         public string Mail { get; set; }
-        public long Phone { get; set; }
-        public Account Type { get; set; }
-        public Account Price { get; set; }
+        public string Phone { get; set; }
+
+        // add account type
     }
 }

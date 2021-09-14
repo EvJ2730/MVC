@@ -3,3 +3,18 @@ C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Deskt
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.AssemblyInfoInputs.cache
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.AssemblyInfo.cs
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.csproj.CoreCompileInputs.cache
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.csproj.AssemblyReference.cache
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.AssemblyInfoInputs.cache
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.AssemblyInfo.cs
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.csproj.CoreCompileInputs.cache
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Services.deps.json
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Services.dll
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Services.pdb
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.dll
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.pdb
+C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Domain.pdb
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.csproj.CopyComplete
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.dll
+C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.pdb

@@ -1,7 +1,5 @@
 ﻿using MusicApp.Domain.Models;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace MusicApp.Services
 {
@@ -12,7 +10,6 @@ namespace MusicApp.Services
         public List<User> GetAllUsers();
         public User GetUserById(int id);
         public void UpdateExistingUser(User user);
-        public void DeleteUserById(int id); 
-
+        public void DeleteUserById(int id);
     }
 }

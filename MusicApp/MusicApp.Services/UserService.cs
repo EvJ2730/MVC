@@ -1,19 +1,19 @@
 ﻿using MusicApp.DataAccess;
 using MusicApp.Domain.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace MusicApp.Services
 {
     public class UserService : IUserService
     {
         private IRepository<User> _userRepository;
+
         public UserService(IRepository<User> userRepository)
         {
             _userRepository = userRepository;
         }
+
         public int AddNewUser(User entity)
         {
             //validation

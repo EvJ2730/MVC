@@ -24,25 +24,25 @@ namespace MusicApp.Controllers
         [HttpPost]
         public IActionResult Create(int id)
         {
-            Playlist playlist = _playlistService.MakeNewPlaylist(id);
-            PlaylistViewModel newPlaylist = new PlaylistViewModel()
-            {
-                Id = playlist.Id,
-                Name = playlist.Name,
-                Song = playlist.Song,
-                Date = playlist.CreatedOn
-            };
-            return View(newPlaylist);
+            //Playlist playlist = _playlistService.MakeNewPlaylist(id);
+            //PlaylistViewModel newPlaylist = new PlaylistViewModel()
+            //{
+            //    Id = playlist.Id,
+            //    Name = playlist.Name,
+            //    Song = playlist.Song,
+            //    Date = playlist.CreatedOn
+            //};
+            return View();
         }
         [HttpPost]
         public IActionResult Edit(Song song)
         {
-            _playlistService.AddNewSong(song);
+            //_playlistService.AddNewSong(song);
             return RedirectToAction("Index");
         }
         public IActionResult Create()
         {
-           _playlistService.GetLastSong();
+           //_playlistService.GetLastSong();
             return RedirectToAction("Index");
         }
         public IActionResult DeleteSong(int id)

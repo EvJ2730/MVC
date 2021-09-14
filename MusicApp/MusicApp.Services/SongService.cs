@@ -1,19 +1,19 @@
 ﻿using MusicApp.DataAccess;
 using MusicApp.Domain.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace MusicApp.Services
 {
     public class SongService : ISongService
     {
         private IRepository<Song> _songRepository;
+
         public SongService(IRepository<Song> songRepository)
         {
             _songRepository = songRepository;
         }
+
         public int AddSong(Song entity)
         {
             return _songRepository.Insert(entity);

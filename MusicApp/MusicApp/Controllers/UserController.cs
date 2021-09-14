@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MusicApp.Controllers
 {
-    public class UserController : Controller 
+    public class UserController : Controller
     {
         private IUserService _userService;
         public UserController(IUserService userService)
@@ -46,9 +46,8 @@ namespace MusicApp.Controllers
                 Username = user.Username,
                 Address = user.Address,
                 Mail = user.Mail,
-                Phone = user.Phone,
-                Type = user.Type,
-                Price = user.Price
+                Phone = user.Phone
+                //add account type
             };
             return View(viewUser);
         }
@@ -84,9 +83,8 @@ namespace MusicApp.Controllers
                 Username = user.Username,
                 Address = user.Address,
                 Mail = user.Mail,
-                Phone = user.Phone,
-                Type = user.Type,
-                Price = user.Price
+                Phone = user.Phone
+                //add account type
             };
             return View(deleteUser);
         }
