@@ -5821,11 +5821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\MVC\\MusicApp\\MusicApp\\MusicApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp\\MusicApp.csproj",
       "projectName": "MusicApp",
-      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\MVC\\MusicApp\\MusicApp\\MusicApp.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp\\MusicApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\MVC\\MusicApp\\MusicApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5842,8 +5842,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj"
+            "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\MVC\\MVC\\MusicApp\\MusicApp.Services\\MusicApp.Services.csproj"
             }
           }
         }
