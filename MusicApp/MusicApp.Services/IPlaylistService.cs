@@ -8,8 +8,8 @@ namespace MusicApp.Services
     public interface IPlaylistService
     {
         public int CreateNewPlaylist(Playlist playlist);
-        public List<PlaylistItem> GetAllPlaylistItem(PlaylistItem playlistItem);
-        public string GetAllPlaylists(Playlist entity);
+        public List<PlaylistItem> GetAllPlaylistItem();
+        public string GetPlaylistById(int id);
         public void UpdatePlaylist(Playlist entity);
         public void DeletePlaylistById(int id);
     }
