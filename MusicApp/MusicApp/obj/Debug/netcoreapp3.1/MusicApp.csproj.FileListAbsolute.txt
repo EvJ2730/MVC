@@ -92,3 +92,5 @@ C:\Projects\MVC\MusicApp\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.csproj.CopyCo
 C:\Projects\MVC\MusicApp\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.dll
 C:\Projects\MVC\MusicApp\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.pdb
 C:\Projects\MVC\MusicApp\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.genruntimeconfig.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.pdb

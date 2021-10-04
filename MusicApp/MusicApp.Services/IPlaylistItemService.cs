@@ -7,7 +7,7 @@ namespace MusicApp.Services
 {
     public interface IPlaylistItemService
     {
-        public string AddPLaylistItem(PlaylistItem entity);
+        public int AddPLaylistItem(PlaylistItem entity);
         public void UpdatePlaylistItem(PlaylistItem entity);
         public void DeleteItemById(int id);
     }

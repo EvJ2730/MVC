@@ -14,7 +14,7 @@ namespace MusicApp.Services
         {
             _playlistItemRepository = playlistItemRepository;
         }
-        public string AddPLaylistItem(PlaylistItem entity)
+        public int AddPLaylistItem(PlaylistItem entity)
         {
             return _playlistItemRepository.Insert(entity);
         }

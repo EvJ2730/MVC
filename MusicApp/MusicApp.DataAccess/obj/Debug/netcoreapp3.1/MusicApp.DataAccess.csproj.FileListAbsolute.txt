@@ -19,3 +19,14 @@ C:\Projects\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.Da
 C:\Projects\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.runtimeconfig.json
 C:\Projects\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.runtimeconfig.dev.json
 C:\Projects\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.genruntimeconfig.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.deps.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.runtimeconfig.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.runtimeconfig.dev.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\bin\Debug\netcoreapp3.1\MusicApp.Domain.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.csproj.CopyComplete
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.DataAccess\obj\Debug\netcoreapp3.1\MusicApp.DataAccess.genruntimeconfig.cache

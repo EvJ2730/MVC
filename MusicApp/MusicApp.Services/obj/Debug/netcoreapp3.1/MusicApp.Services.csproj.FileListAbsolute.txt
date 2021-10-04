@@ -18,3 +18,13 @@ C:\Projects\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Doma
 C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.csproj.CopyComplete
 C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.dll
 C:\Projects\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Services.deps.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Services.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Services.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.DataAccess.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\bin\Debug\netcoreapp3.1\MusicApp.Domain.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.csproj.CopyComplete
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\MVC\MusicApp\MusicApp.Services\obj\Debug\netcoreapp3.1\MusicApp.Services.pdb

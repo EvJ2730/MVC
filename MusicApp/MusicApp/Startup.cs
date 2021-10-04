@@ -27,7 +27,7 @@ namespace MusicApp
 
             services.AddDbContext<MusicAppDbContext>
                 (
-                    x => x.UseSqlServer("Server=BTL-LJUBE-BAJR1\\SQLEXPRESS;Database=MusicAppDb;Trusted_Connection=True")
+                    x => x.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=MusicAppDb;Trusted_Connection=True")
                 );
 
             services.AddTransient<IRepository<AccountType>, AccountTypeEntityRepository>();

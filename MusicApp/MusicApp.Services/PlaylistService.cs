@@ -19,12 +19,7 @@ namespace MusicApp.Services
             return _playlistRepository.Insert(playlist);
         }
 
-        public List<PlaylistItem> GetAllPlaylistItem()
-        {
-            return _playlistRepository.GetAll();
-        }
-
-        public string GetPlaylistById(int id)
+        public Playlist GetPlaylistById(int id)
         {
             return _playlistRepository.GetById(id);
         }
@@ -37,7 +32,6 @@ namespace MusicApp.Services
         {
             _playlistRepository.DeleteById(id);
         }
-
 
     }
 }
