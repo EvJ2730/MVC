@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.deps.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.AssemblyInfo.cs
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.csproj.CopyComplete
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.pdb

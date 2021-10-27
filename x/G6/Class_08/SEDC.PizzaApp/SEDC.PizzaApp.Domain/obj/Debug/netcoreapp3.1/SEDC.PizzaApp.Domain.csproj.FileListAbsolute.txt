@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\MVC\G6\Class_08\SEDC.PizzaApp\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
